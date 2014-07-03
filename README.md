@@ -7,3 +7,4 @@ Fourth
 Notification Test
 Comment with card
 New
+New Event
