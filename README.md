@@ -8,3 +8,4 @@ Notification Test
 Comment with card
 New
 New Event
+Notifications are not working
